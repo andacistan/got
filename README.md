@@ -9,7 +9,3 @@ You can check it out  [here](https://andac-ozturk-got.netlify.app/#/).
 - npm install
 - npm run dev
 
-## Netlify 
-You can check it out  [here]([https://pages.github.com/](https://andac-ozturk-got.netlify.app/#/)).
-
-
